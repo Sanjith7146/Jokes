@@ -11,6 +11,8 @@
 		C5124173276E1E260076CEC7 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5124172276E1E260076CEC7 /* ContentView.swift */; };
 		C5124175276E1E2A0076CEC7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C5124174276E1E2A0076CEC7 /* Assets.xcassets */; };
 		C5124178276E1E2A0076CEC7 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C5124177276E1E2A0076CEC7 /* Preview Assets.xcassets */; };
+		C512417F276E1E4F0076CEC7 /* FeedbackResponseView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C512417E276E1E4F0076CEC7 /* FeedbackResponseView.swift */; };
+		C5124181276E1E580076CEC7 /* Jokes.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5124180276E1E580076CEC7 /* Jokes.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		C5124172276E1E260076CEC7 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		C5124174276E1E2A0076CEC7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C5124177276E1E2A0076CEC7 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		C512417E276E1E4F0076CEC7 /* FeedbackResponseView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedbackResponseView.swift; sourceTree = "<group>"; };
+		C5124180276E1E580076CEC7 /* Jokes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Jokes.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +57,8 @@
 			children = (
 				C5124170276E1E260076CEC7 /* JokesApp.swift */,
 				C5124172276E1E260076CEC7 /* ContentView.swift */,
+				C512417E276E1E4F0076CEC7 /* FeedbackResponseView.swift */,
+				C5124180276E1E580076CEC7 /* Jokes.swift */,
 				C5124174276E1E2A0076CEC7 /* Assets.xcassets */,
 				C5124176276E1E2A0076CEC7 /* Preview Content */,
 			);
@@ -139,6 +145,8 @@
 			files = (
 				C5124173276E1E260076CEC7 /* ContentView.swift in Sources */,
 				C5124171276E1E260076CEC7 /* JokesApp.swift in Sources */,
+				C5124181276E1E580076CEC7 /* Jokes.swift in Sources */,
+				C512417F276E1E4F0076CEC7 /* FeedbackResponseView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
